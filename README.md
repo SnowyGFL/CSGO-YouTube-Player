@@ -1,7 +1,7 @@
 # CSGO-YouTube-Player
-Detects URL in-game and plays them through your mic
-Usable GUI to help skip tracks, delete tracks, change volume and more.
-Works with timestamp. Thanks to torchlight
+Detects URL in-game and plays them through your mic.\
+Usable GUI to help skip tracks, delete tracks, change volume and more.\
+Works with timestamp. Thanks to torchlight!
 
 # Requirements
 - Python3.8
