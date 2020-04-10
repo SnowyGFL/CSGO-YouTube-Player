@@ -12,8 +12,9 @@ Works with timestamp. Thanks to torchlight
 - Install python3
 - Do `pip install -r requirements.txt`
 - In yt-player.py edit
-  - `LOGFILE = ""` to your csgo logfile as stated in con_logfile.
+  - `LOGFILE = ""` to your csgo logfile as stated in con_logfile. Example in script
   - `COMMANDS = ".yt"` to your liking (The command used to input URL ingame)
+  - `TIMEOUT = 5` Auto skips track after x time
 - Run `python yt-player.py`
 
 # Usage
